@@ -1,0 +1,20 @@
+window:
+  padding:
+    y: 20
+    x: 20
+  startup_mode: Windowed
+  opacity: 0.95
+  dimensions:
+    columns: 120
+    lines: 35
+font:
+  normal:
+    family: Cascadia Code
+    style: Regular
+  bold:
+    family: Cascadia Code
+    style: Bold
+  italic:
+    family: Cascadia Code
+    style: Italic
+  size: 12
