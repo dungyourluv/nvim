@@ -1,0 +1,19 @@
+{
+    "suggest.noselect": false,
+    "coc.preferences.formatOnSaveFiletypes": [
+          "javascript",
+              "json",
+                  "javascriptreact"
+                    
+    ],
+      "javascript.suggestionActions.enabled": false,
+      "coc.preferences.formatOnSaveFiletypes": [
+            "css",
+                "markdown",
+                    "html",
+                        "js",
+                            "jsx"
+                              
+      ]
+      
+}
